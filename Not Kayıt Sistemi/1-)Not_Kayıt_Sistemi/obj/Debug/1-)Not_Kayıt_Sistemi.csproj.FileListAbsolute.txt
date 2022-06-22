@@ -1,0 +1,48 @@
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.exe.config
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.exe
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.pdb
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmGiris.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmOgrenciDetay.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmOgretmenDetay.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.exe
+C:\Users\metin\Desktop\Mersin ÜNİ\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.pdb
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.exe.config
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.exe
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.pdb
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmGiris.resources
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmOgrenciDetay.resources
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmOgretmenDetay.resources
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.exe
+C:\Users\metin\Desktop\Programlama Dilleri\C# 25 Ugulama\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.pdb
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.exe.config
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.exe
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.pdb
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmGiris.resources
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmOgrenciDetay.resources
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmOgretmenDetay.resources
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.exe
+C:\Users\metin\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.pdb
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.exe.config
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.exe
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\bin\Debug\1-)Not_Kayıt_Sistemi.pdb
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmGiris.resources
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmOgrenciDetay.resources
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.FrmOgretmenDetay.resources
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\_1__Not_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.exe
+C:\Users\mehmet ali\Desktop\1-)Not_Kayıt_Sistemi\1-)Not_Kayıt_Sistemi\obj\Debug\1-)Not_Kayıt_Sistemi.pdb
